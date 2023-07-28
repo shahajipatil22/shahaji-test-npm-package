@@ -1,0 +1,16 @@
+{
+  "name": "shahaji-test-npm-package",
+  "version": "1.0.2",
+  "description": "The addition package is a simple utility library that provides a set of functions to perform addition operations. It is designed to help developers easily handle addition tasks in their Node.js projects. The package offers a straightforward and efficient solution for adding numbers and arrays of numbers.",
+  "main": "index.js", 
+  "keywords": [],
+  "author": "Shahaji Patil",
+  "contributors": [
+    "Shahaji Patil <shahajipatil2@gmail.com> (https://in.linkedin.com/in/shahajipatil)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shahajipatil22/shahaji-test-npm-package.git"
+  },
+  "license": "ISC"
+}
